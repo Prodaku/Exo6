@@ -25,8 +25,13 @@ namespace Exo6
             Console.WriteLine("Fiche de renseignement " + LJ + LJ + "Nom : " + Name + LJ + "Prénom : " 
                 + FirstName + LJ + "Age : " + age + LJ);
 
-            Console.WriteLine("Fiche de renseignement  \n Nom : " + Name + " \n Prénom : "
-                + FirstName + " \n Age : " + age + "\n");
+            //Console.WriteLine("Fiche de renseignement  \n Nom : " + Name + " \n Prénom : "
+            //+ FirstName + " \n Age : " + age + "\n");
+
+            //Console.WriteLine("Fiche de renseignement " + Environment.NewLine + "Nom : " + Name + Environment.NewLine + "Prénom : "
+            //+ FirstName + Environment.NewLine + "Age : " + age + Environment.NewLine);
+
+            //Console.WriteLine($"Fiche de renseignement \n Nom :  {Name} \n Prénom : {FirstName} \n  Age :  {age} \n");
 
 
 
