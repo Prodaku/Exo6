@@ -25,7 +25,11 @@ namespace Exo6
             Console.WriteLine("Fiche de renseignement " + LJ + LJ + "Nom : " + Name + LJ + "Prénom : " 
                 + FirstName + LJ + "Age : " + age + LJ);
 
-            
+            Console.WriteLine("Fiche de renseignement  \n Nom : " + Name + " \n Prénom : "
+                + FirstName + " \n Age : " + age + "\n");
+
+
+
         }
     }
 }
